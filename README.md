@@ -1,0 +1,1 @@
+I was watching some videos on game programming from Casey Muratori, and decided to try it in Rust. It was just a weekend project, well a couple of weekends, but was a fun learning process. This is the game library part, which is live loaded by the win32_platform code
